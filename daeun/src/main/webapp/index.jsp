@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body>ggzz
 	<h1><a href="./loginForm.do">로그인</a></h1>
 	
 	<hr>	
